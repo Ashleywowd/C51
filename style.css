@@ -1,0 +1,38 @@
+h1{
+    color:violet
+}
+*{
+    border:solid;
+}
+.header{
+    background-color:darkcyan;
+    display: flex;
+justify-content: space-evenly
+} 
+.grid{
+   
+    display :flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #0192f3;
+}
+
+.Footer{
+    display: flex;
+    justify-content:center;
+    background-color: #f11234;
+}
+body{ 
+    background-color: hsl(103, 84%, 65%)
+}
+h2,p{
+    color:black;
+}
+ 
+.INFORMATION{ 
+display: flex;
+
+justify-content: center;
+
+background-color: #6f81e7;
+}
